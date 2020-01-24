@@ -1,4 +1,4 @@
-# bs-looplab
+# bootstrap-looplab
 
 ## Install Dependencies
 
